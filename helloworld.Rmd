@@ -29,5 +29,6 @@ plot(pressure)
 
 ## This is a markdown file
 ## test 1
+## test 2
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
